@@ -45,6 +45,17 @@ Create a view in your database called "UnregisteredStudents" and write your answ
 
 Commit it with "No course query"
 
+Exercise:
+Create a sql query that shows a list of all the names in the person and student table.
+Create a stored procedure called "GetAllPeoples" in your database that uses this and write your answer below.
+
+Commit it with "All my people dawg"
+
+Exercise:
+Create a sql query that returns all the courses for a given studentid.
+Create a sql stored proc that passes the studentid and returns only the courses for the person.
+
+Commit it with "Get my classes"
 
 * Exercise
 * Make a change that will change the application name of every page to be your name.
