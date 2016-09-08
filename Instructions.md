@@ -36,14 +36,14 @@ Exercise :
 Exercise:
 Run the SQL file "CreateTables" on your database.
 Create a sql query that shows what course each student is taking.
-Create a view called "StudentsCoursesRecords" with this query and write your answer below.
+Create a view in your database called "StudentsCoursesRecords" with this query and write your answer below.
 Commit it with "Each student's query"
 
 Exercise:
-Create a sql query that shows which students have not registered for any courses.
-Create a view called "UnregisteredStudents" and write your answer below.
+Create a sql query  that shows which students have not registered for any courses.
+Create a view in your database called "UnregisteredStudents" and write your answer below.
 
-
+Commit it with "No course query"
 
 
 * Exercise
