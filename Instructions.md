@@ -33,7 +33,20 @@ Exercise :
 * Create a stored procedure that takes a lastname parameter and returns all the persons with that last name called "GetPersonsByLastName".
 * Save this as a file in the stored procedures tab and commit this with the message "Last name sp",
 
-* Open the solution in the website folder.
+Exercise:
+Run the SQL file "CreateTables" on your database.
+Create a sql query that shows what course each student is taking.
+Create a view called "StudentsCoursesRecords" with this query and write your answer below.
+Commit it with "Each student's query"
+
+Exercise:
+Create a sql query that shows which students have not registered for any courses.
+Create a view called "UnregisteredStudents" and write your answer below.
+
+
+
+
+* Exercise
 * Make a change that will change the application name of every page to be your name.
 * Commit this with the message "App name"
 
