@@ -60,11 +60,11 @@ Exercise : Change an insert page with ASP components
 * Commit this with the message "City created"
 
 Exercise: Use C# and EF to update a page
-* On the page CreatPerson.aspx.cs page update the function to save the city to the database.
+* On the page AddPerson.aspx.cs page update the function to save the city to the database.
 * Commit this with message "Changed EF update"
 
 Exercise: Make it pretty
-* Make CreatePerson.aspx look better.
+* Make AddPerson.aspx look better.
 * This is all your opinion. Your only restraint is that you have to use classes that are not this page but in a css file.
 * Commit this with the message "I feel pretty."
 
@@ -76,10 +76,10 @@ Exercise: Show understanding of object oriented principles.
 
 Exercise: Create a page and do some HTML and JavaScript.
 * Create a new page called "JavaScript.aspx"
-* Create a input box called "txtExample"
+* Create a input box called "txtExample" and not allow the user to enter a number in the textbox.
 * Create a button called "btnMyButton"
-* Create a javascript function, using jQuery, that adds 1 to the txtExample every time you click it.
-* Make sure it can be blank (and thus treated as 0).
+* Create a javascript function, using jQuery, that adds 1 to the txtExample every time you click it. The end result of this exercise is that the person can just click the button and the textbox will keep adding new numbers. A person should never have to type in the textbox.
+* Make sure it can be blank (and thus treated as 0). 
 * Commit this with the message "JavaScript is my friend."
 
 Email back the person who sent you the email for this page that you have completed the quiz and include your GITHUB url where you have these results.
